@@ -12,6 +12,7 @@ This is a collection of openly-licensed Terms of Service / Use, and Privacy Poli
 * [CreativeCommons](https://creativecommons.org/terms/) - CC0 - Terms of Use
 * [Editorially](https://github.com/Editorially/terms/blob/master/terms.md) - CC-BY-SA-3.0 - Terms of Service and Privacy Policy
 * [GitHub](https://github.com/github/docs/blob/main/content/site-policy/github-terms/github-terms-of-service.md) - CC-BY-4.0 - Terms of Service
+* [Tailscale](https://github.com/tailscale/terms-and-conditions/blob/main/terms/index.md) - CC0-1.0 - Terms of Service
 * [WordPress.com](https://wordpress.com/tos/) - CC-BY-SA-4.0 - Terms of Service
 
 ## Privacy Policy
@@ -21,7 +22,8 @@ This is a collection of openly-licensed Terms of Service / Use, and Privacy Poli
 * [CreativeCommons](https://creativecommons.org/privacy/) - CC0 - Privacy Policy
 * [Editorially](https://github.com/Editorially/terms/blob/master/terms.md) - CC-BY-SA-3.0 - Terms of Service and Privacy Policy
 * [GitHub](https://github.com/github/docs/blob/main/content/site-policy/privacy-policies/github-general-privacy-statement.md) - CC-BY-4.0 - General Privacy Statement
+* [Tailscale](https://github.com/tailscale/terms-and-conditions/blob/main/privacy-policy/index.md) - CC0-1.0 - Privacy Policy
 
 ## PRs Welcome!
 
-Pull Requests are welcomed! Please continue the same format and continue adding entries in sorted order.
+Pull Requests are welcomed! Please use the same format as above, and continue adding entries in sorted order.
