@@ -7,13 +7,13 @@ This is a collection of openly-licensed Terms of Service / Use, and Privacy Poli
 
 ## Terms of Service / Use
 
-[Bitwarden](https://bitwarden.com/terms/) - CC-BY-4.0 - Terms of Service (modified GitHub Policy)
-[CreativeCommons](https://creativecommons.org/terms/) - CC0 - Terms of Use
-[Editorially](https://github.com/Editorially/terms/blob/master/terms.md) - CC-BY-3.0 - Terms of Service and Privacy Policy
-[GitHub](https://github.com/github/docs/blob/main/content/site-policy/github-terms/github-terms-of-service.md) - Terms of Service
+* [Bitwarden](https://bitwarden.com/terms/) - CC-BY-4.0 - Terms of Service (modified GitHub Policy)
+* [CreativeCommons](https://creativecommons.org/terms/) - CC0 - Terms of Use
+* [Editorially](https://github.com/Editorially/terms/blob/master/terms.md) - CC-BY-3.0 - Terms of Service and Privacy Policy
+* [GitHub](https://github.com/github/docs/blob/main/content/site-policy/github-terms/github-terms-of-service.md) - Terms of Service
 
 ## Privacy Policy
 
-[CreativeCommons](https://creativecommons.org/privacy/) - CC0 - Privacy Policy
-[Editorially](https://github.com/Editorially/terms/blob/master/terms.md) - CC-BY-3.0 - Terms of Service and Privacy Policy
-[GitHub](https://github.com/github/docs/blob/main/content/site-policy/privacy-policies/github-general-privacy-statement.md) - CC-BY-4.0 - General Privacy Statement
+* [CreativeCommons](https://creativecommons.org/privacy/) - CC0 - Privacy Policy
+* [Editorially](https://github.com/Editorially/terms/blob/master/terms.md) - CC-BY-3.0 - Terms of Service and Privacy Policy
+* [GitHub](https://github.com/github/docs/blob/main/content/site-policy/privacy-policies/github-general-privacy-statement.md) - CC-BY-4.0 - General Privacy Statement
